@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="999.126" height="512.937" viewBox="0 0 999.126 512.937">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 10px;
+      }
+
+      .cls-1 {
+        stroke: #ff2400;
+      }
+
+      .cls-2 {
+        stroke: blue;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: #fff;
+        font-family: ShareTech-Regular, Share Tech;
+      }
+
+      .cls-3 {
+        font-size: 55px;
+      }
+
+      .cls-4 {
+        font-size: 42px;
+      }
+
+      .cls-5 {
+        font-size: 45px;
+      }
+
+      .cls-6 {
+        font-size: 40px;
+      }
+    </style>
+  </defs>
+  <g id="pend" transform="translate(1088.606 -2347)">
+    <path id="Path_20" data-name="Path 20" class="cls-1" d="M487.4,1622.674V1446.243H808.569s-321.907-.693-321.173,0S487.4,1622.674,487.4,1622.674Z" transform="translate(-1571 925.571)"/>
+    <path id="Path_21" data-name="Path 21" class="cls-2" d="M697.614,1432.348V1606.8H375.69s322.658.694,321.925,0S697.614,1432.348,697.614,1432.348Z" transform="translate(-1349.581 942.455)"/>
+    <text id="SDN_1_Carangrejo" data-name="SDN 1 Carangrejo" class="cls-3" transform="translate(-1059.549 2477.983)"><tspan x="0" y="0">SDN 1 Carangrejo</tspan></text>
+    <text id="_2007" data-name="2007" class="cls-4" transform="translate(-1067.748 2562.996)"><tspan x="0" y="0">2007</tspan></text>
+    <text id="_2013" data-name="2013" class="cls-4" transform="translate(-743.914 2384)"><tspan x="0" y="0">2013</tspan></text>
+    <path id="Path_22" data-name="Path 22" class="cls-1" d="M487.4,1622.674V1446.243H808.569s-321.907-.693-321.173,0S487.4,1622.674,487.4,1622.674Z" transform="translate(-1571 1211.146)"/>
+    <path id="Path_23" data-name="Path 23" class="cls-2" d="M697.614,1432.348V1606.8H375.69s322.658.694,321.925,0S697.614,1432.348,697.614,1432.348Z" transform="translate(-1349.581 1228.03)"/>
+    <text id="MUHAMMADIYAH_BOARDING_SCHOOL" data-name="MUHAMMADIYAH
+BOARDING SCHOOL" class="cls-5" transform="translate(-1035.043 2738.224)"><tspan x="0" y="0">MUHAMMADIYAH</tspan><tspan x="0" y="51">BOARDING SCHOOL</tspan></text>
+    <text id="_2016" data-name="2016" class="cls-4" transform="translate(-1067.748 2848.571)"><tspan x="0" y="0">2016</tspan></text>
+    <text id="_2019" data-name="2019" class="cls-4" transform="translate(-743.914 2669.574)"><tspan x="0" y="0">2019</tspan></text>
+    <path id="Path_24" data-name="Path 24" class="cls-1" d="M487.4,1622.674V1446.243H808.569s-321.907-.693-321.173,0S487.4,1622.674,487.4,1622.674Z" transform="translate(-1013.515 925.571)"/>
+    <path id="Path_25" data-name="Path 25" class="cls-2" d="M697.614,1432.348V1606.8H375.69s322.658.694,321.925,0S697.614,1432.348,697.614,1432.348Z" transform="translate(-792.096 942.455)"/>
+    <text id="MTS-Kertosono" class="cls-3" transform="translate(-488.4 2477.876)"><tspan x="0" y="0">MTS-Kertosono</tspan></text>
+    <text id="_2013-2" data-name="2013" class="cls-4" transform="translate(-510.263 2562.996)"><tspan x="0" y="0">2013</tspan></text>
+    <text id="_2016-2" data-name="2016" class="cls-4" transform="translate(-186.429 2384)"><tspan x="0" y="0">2016</tspan></text>
+    <path id="Path_26" data-name="Path 26" class="cls-1" d="M487.4,1622.674V1446.243H808.569s-321.907-.693-321.173,0S487.4,1622.674,487.4,1622.674Z" transform="translate(-1013.515 1212.512)"/>
+    <path id="Path_27" data-name="Path 27" class="cls-2" d="M697.614,1432.348V1606.8H375.69s322.658.694,321.925,0S697.614,1432.348,697.614,1432.348Z" transform="translate(-792.096 1229.396)"/>
+    <text id="UPN-Jawa_Timur_Sistem_Informasi" data-name="UPN-Jawa Timur
+Sistem Informasi" class="cls-6" transform="translate(-488.043 2739.224)"><tspan x="0" y="0">UPN-Jawa Timur</tspan><tspan x="0" y="45">Sistem Informasi</tspan></text>
+    <text id="_2019-2" data-name="2019" class="cls-4" transform="translate(-510.263 2849.937)"><tspan x="0" y="0">2019</tspan></text>
+    <text id="NOW" class="cls-4" transform="translate(-186.429 2673.674)"><tspan x="0" y="0">NOW</tspan></text>
+  </g>
+</svg>
